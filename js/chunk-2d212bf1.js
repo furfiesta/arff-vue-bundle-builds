@@ -1,0 +1,8 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d212bf1"],{aa72:function(n,t,e){"use strict";e.r(t),e.d(t,"allDay",(function(){return w})),e.d(t,"createEvent",(function(){return h})),e.d(t,"dateFormat",(function(){return D})),e.d(t,"day",(function(){return f})),e.d(t,"default",(function(){return M})),e.d(t,"deleteEvent",(function(){return k})),e.d(t,"month",(function(){return c})),e.d(t,"months",(function(){return d})),e.d(t,"noEvent",(function(){return y})),e.d(t,"today",(function(){return s})),e.d(t,"week",(function(){return i})),e.d(t,"weekDays",(function(){return r})),e.d(t,"weekDaysShort",(function(){return u})),e.d(t,"year",(function(){return a})),e.d(t,"years",(function(){return o}));
+/**
+  * vue-cal v3.11.0
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const r=["Понеділок","Вівторок","Середа","Четвер","П'ятниця","Субота","Неділя"],d=["Січень","Лютий","Березень","Квітень","Травень","Червень","Липень","Серпень","Вересень","Жовтень","Листопад","Грудень"],u=["Пн","Вт","Ср","Чт","Пт","Сб","Нд"],o="Роки",a="Рік",c="Місяць",i="Тиждень",f="День",s="Сьогодні",y="Немає подій",w="Весь день",k="Видалити",h="Створити подію",D="dddd D MMMM YYYY",M={weekDays:r,months:d,weekDaysShort:u,years:"Роки",year:"Рік",month:"Місяць",week:"Тиждень",day:"День",today:"Сьогодні",noEvent:"Немає подій",allDay:"Весь день",deleteEvent:"Видалити",createEvent:"Створити подію",dateFormat:"dddd D MMMM YYYY"}}}]);
+//# sourceMappingURL=chunk-2d212bf1.js.map

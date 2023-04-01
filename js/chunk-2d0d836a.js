@@ -1,0 +1,8 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d836a"],{"79b4":function(n,t,e){"use strict";e.r(t),e.d(t,"allDay",(function(){return y})),e.d(t,"createEvent",(function(){return M})),e.d(t,"dateFormat",(function(){return Y})),e.d(t,"day",(function(){return i})),e.d(t,"default",(function(){return k})),e.d(t,"deleteEvent",(function(){return w})),e.d(t,"month",(function(){return a})),e.d(t,"months",(function(){return d})),e.d(t,"noEvent",(function(){return s})),e.d(t,"today",(function(){return f})),e.d(t,"week",(function(){return c})),e.d(t,"weekDays",(function(){return r})),e.d(t,"year",(function(){return o})),e.d(t,"years",(function(){return u}));
+/**
+  * vue-cal v3.11.0
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const r=["ორშაბათი","სამშაბათი","ოთხშაბათი","ხუთშაბათი","პარასკევი","შაბათი","კვირა"],d=["იანვარი","თებერვალი","მარტი","აპრილი","მაისი","ივნისი","ივლისი","აგვისტო","სექტემბერი","ოქტომბერი","ნოემბერი","დეკემბერი"],u="წლები",o="წელი",a="თვე",c="კვირა",i="დღე",f="დღეს",s="ღონისძიება არ არის",y="მთელი დღე",w="წაშლა",M="შექმენით ღონისძიება",Y="dddd D MMMM YYYY",k={weekDays:r,months:d,years:"წლები",year:"წელი",month:"თვე",week:"კვირა",day:"დღე",today:"დღეს",noEvent:"ღონისძიება არ არის",allDay:"მთელი დღე",deleteEvent:"წაშლა",createEvent:"შექმენით ღონისძიება",dateFormat:"dddd D MMMM YYYY"}}}]);
+//# sourceMappingURL=chunk-2d0d836a.js.map

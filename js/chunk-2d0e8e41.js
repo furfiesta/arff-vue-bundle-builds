@@ -1,0 +1,8 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e8e41"],{"8ace":function(n,e,a){"use strict";a.r(e),a.d(e,"allDay",(function(){return g})),a.d(e,"createEvent",(function(){return M})),a.d(e,"dateFormat",(function(){return h})),a.d(e,"day",(function(){return c})),a.d(e,"default",(function(){return l})),a.d(e,"deleteEvent",(function(){return m})),a.d(e,"month",(function(){return d})),a.d(e,"months",(function(){return r})),a.d(e,"noEvent",(function(){return f})),a.d(e,"today",(function(){return s})),a.d(e,"week",(function(){return o})),a.d(e,"weekDays",(function(){return t})),a.d(e,"year",(function(){return i})),a.d(e,"years",(function(){return u}));
+/**
+  * vue-cal v3.11.0
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const t=["Senin","Selasa","Rabu","Kamis","Jumat","Sabtu","Minggu"],r=["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"],u="Tahunan",i="Tahun",d="Bulan",o="Minggu",c="Hari",s="Hari Ini",f="Tidak Ada Kegiatan",g="Sepanjang Hari",m="Hapus",M="Tambah Kegiatan",h="dddd, D MMMM YYYY",l={weekDays:t,months:r,years:"Tahunan",year:"Tahun",month:"Bulan",week:"Minggu",day:"Hari",today:"Hari Ini",noEvent:"Tidak Ada Kegiatan",allDay:"Sepanjang Hari",deleteEvent:"Hapus",createEvent:"Tambah Kegiatan",dateFormat:"dddd, D MMMM YYYY"}}}]);
+//# sourceMappingURL=chunk-2d0e8e41.js.map

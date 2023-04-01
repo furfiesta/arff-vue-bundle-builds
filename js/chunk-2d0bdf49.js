@@ -1,0 +1,8 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bdf49"],{"2dcd":function(n,e,r){"use strict";r.r(e),r.d(e,"allDay",(function(){return s})),r.d(e,"createEvent",(function(){return M})),r.d(e,"dateFormat",(function(){return y})),r.d(e,"day",(function(){return c})),r.d(e,"default",(function(){return l})),r.d(e,"deleteEvent",(function(){return v})),r.d(e,"month",(function(){return o})),r.d(e,"months",(function(){return u})),r.d(e,"noEvent",(function(){return f})),r.d(e,"today",(function(){return m})),r.d(e,"week",(function(){return a})),r.d(e,"weekDays",(function(){return t})),r.d(e,"year",(function(){return i})),r.d(e,"years",(function(){return d}));
+/**
+  * vue-cal v3.11.0
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const t=["Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi","Dimanche"],u=["Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre"],d="Années",i="Année",o="Mois",a="Semaine",c="Jour",m="Aujourd'hui",f="Aucun événement",s="Jour entier",v="Supprimer",M="Créer un événement",y="dddd D MMMM YYYY",l={weekDays:t,months:u,years:"Années",year:"Année",month:"Mois",week:"Semaine",day:"Jour",today:"Aujourd'hui",noEvent:"Aucun événement",allDay:"Jour entier",deleteEvent:"Supprimer",createEvent:"Créer un événement",dateFormat:"dddd D MMMM YYYY"}}}]);
+//# sourceMappingURL=chunk-2d0bdf49.js.map

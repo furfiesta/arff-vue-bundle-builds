@@ -1,0 +1,8 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e1743"],{"7b02":function(n,t,e){"use strict";e.r(t),e.d(t,"allDay",(function(){return i})),e.d(t,"createEvent",(function(){return s})),e.d(t,"dateFormat",(function(){return m})),e.d(t,"day",(function(){return c})),e.d(t,"default",(function(){return w})),e.d(t,"deleteEvent",(function(){return f})),e.d(t,"month",(function(){return h})),e.d(t,"months",(function(){return d})),e.d(t,"noEvent",(function(){return g})),e.d(t,"today",(function(){return y})),e.d(t,"week",(function(){return T})),e.d(t,"weekDays",(function(){return r})),e.d(t,"weekDaysShort",(function(){return u})),e.d(t,"year",(function(){return a})),e.d(t,"years",(function(){return o}));
+/**
+  * vue-cal v3.11.0
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const r=["Thứ hai","Thứ ba","Thứ tư","Thứ năm","Thứ sáu","Thứ bảy","Chủ nhật"],u=["T2","T3","T4","T5","T6","T7","CN"],d=["Tháng 1","Tháng 2","Tháng 3","Tháng 4","Tháng 5","Tháng 6","Tháng 7","Tháng 8","Tháng 9","Tháng 10","Tháng 11","Tháng 12"],o="Năm",a="Năm nay",h="Tháng",T="Tuần",c="Ngày",y="Hôm nay",g="NKhông có Event",i="Cả ngày",f="Xóa",s="Tạo event",m="dddd MMMM D YYYY",w={weekDays:r,weekDaysShort:u,months:d,years:"Năm",year:"Năm nay",month:"Tháng",week:"Tuần",day:"Ngày",today:"Hôm nay",noEvent:"NKhông có Event",allDay:"Cả ngày",deleteEvent:"Xóa",createEvent:"Tạo event",dateFormat:"dddd MMMM D YYYY"}}}]);
+//# sourceMappingURL=chunk-2d0e1743.js.map

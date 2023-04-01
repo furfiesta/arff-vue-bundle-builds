@@ -1,0 +1,8 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e1c30"],{"7c8f":function(n,e,t){"use strict";t.r(e),t.d(e,"allDay",(function(){return y})),t.d(e,"createEvent",(function(){return p})),t.d(e,"dateFormat",(function(){return l})),t.d(e,"day",(function(){return c})),t.d(e,"default",(function(){return k})),t.d(e,"deleteEvent",(function(){return m})),t.d(e,"month",(function(){return o})),t.d(e,"months",(function(){return u})),t.d(e,"noEvent",(function(){return f})),t.d(e,"today",(function(){return i})),t.d(e,"week",(function(){return s})),t.d(e,"weekDays",(function(){return r})),t.d(e,"year",(function(){return d})),t.d(e,"years",(function(){return a}));
+/**
+  * vue-cal v3.11.0
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const r=["Hétfo","Kedd","Szerda","Csütörtök","Péntek","Szombat","Vasárnap"],u=["Január","Február","Március","Április","Május","Június","Július","Augusztus","Szeptember","Október","November","December"],a="Évek",d="Év",o="Hónap",s="Hét",c="Nap",i="Mai nap",f="Nincs esemény",y="Egész nap",m="Esemény törlese",p="Esemény létrehozása",l="dddd D MMMM YYYY",k={weekDays:r,months:u,years:"Évek",year:"Év",month:"Hónap",week:"Hét",day:"Nap",today:"Mai nap",noEvent:"Nincs esemény",allDay:"Egész nap",deleteEvent:"Esemény törlese",createEvent:"Esemény létrehozása",dateFormat:"dddd D MMMM YYYY"}}}]);
+//# sourceMappingURL=chunk-2d0e1c30.js.map
