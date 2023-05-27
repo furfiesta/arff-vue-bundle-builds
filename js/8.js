@@ -1,0 +1,15 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[8],{
+
+/***/ "./node_modules/vue-cal/dist/i18n/da.es.js":
+/*!*************************************************!*\
+  !*** ./node_modules/vue-cal/dist/i18n/da.es.js ***!
+  \*************************************************/
+/*! exports provided: allDay, createEvent, dateFormat, day, default, deleteEvent, month, months, noEvent, today, week, weekDays, year, years */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"allDay\", function() { return o; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"createEvent\", function() { return v; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"dateFormat\", function() { return y; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"day\", function() { return s; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return m; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"deleteEvent\", function() { return M; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"month\", function() { return n; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"months\", function() { return a; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"noEvent\", function() { return l; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"today\", function() { return g; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"week\", function() { return r; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"weekDays\", function() { return e; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"year\", function() { return d; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"years\", function() { return t; });\n/**\n  * vue-cal v3.11.0\n  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>\n  * @license MIT\n  */\nconst e = [\"Mandag\", \"Tirsdag\", \"Onsdag\", \"Torsdag\", \"Fredag\", \"L\\xF8rdag\", \"S\\xF8ndag\"], a = [\"Januar\", \"Februar\", \"Marts\", \"April\", \"Maj\", \"Juni\", \"Juli\", \"August\", \"September\", \"Oktober\", \"November\", \"December\"], t = \"\\xC5r (flertal)\", d = \"\\xC5r\", n = \"M\\xE5ned\", r = \"Uge\", s = \"Dag\", g = \"I dag\", l = \"Ingen begivenhed\", o = \"Hele dagen\", M = \"Slet\", v = \"Opret et event\", y = \"dddd D MMMM YYYY\", m = { weekDays: e, months: a, years: \"\\xC5r (flertal)\", year: \"\\xC5r\", month: \"M\\xE5ned\", week: \"Uge\", day: \"Dag\", today: \"I dag\", noEvent: \"Ingen begivenhed\", allDay: \"Hele dagen\", deleteEvent: \"Slet\", createEvent: \"Opret et event\", dateFormat: \"dddd D MMMM YYYY\" };\n\n\n\n//# sourceURL=webpack:///./node_modules/vue-cal/dist/i18n/da.es.js?");
+
+/***/ })
+
+}]);

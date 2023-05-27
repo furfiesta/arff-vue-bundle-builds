@@ -1,8 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e19ee"],{"7ae3":function(t,n,e){"use strict";e.r(n),e.d(n,"allDay",(function(){return k})),e.d(n,"createEvent",(function(){return E})),e.d(n,"dateFormat",(function(){return y})),e.d(n,"day",(function(){return s})),e.d(n,"default",(function(){return D})),e.d(n,"deleteEvent",(function(){return M})),e.d(n,"month",(function(){return d})),e.d(n,"months",(function(){return o})),e.d(n,"noEvent",(function(){return h})),e.d(n,"today",(function(){return f})),e.d(n,"week",(function(){return c})),e.d(n,"weekDays",(function(){return r})),e.d(n,"weekDaysShort",(function(){return a})),e.d(n,"year",(function(){return i})),e.d(n,"years",(function(){return u}));
-/**
-  * vue-cal v3.11.0
-  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
-  * @license MIT
-  */
-const r=["E Hënë","E Martë","E Mërkurë","E Enjte","E Premte","E Shtunë","E Diel"],a=["Hë","Ma","Mr","Enj","Pr","Sh","D"],o=["Janar","Shkurt","Mars","Prill","Maj","Qershor","Korrik","Gusht","Shtator","Tetor","Nëntor","Dhjetor"],u="Vitet",i="Viti",d="Muaji",c="Java",s="Dita",f="Sot",h="Nuk ka event",k="Tërë ditën",M="Fshijë",E="Krijo një event",y="dddd D MMMM YYYY",D={weekDays:r,weekDaysShort:a,months:o,years:"Vitet",year:"Viti",month:"Muaji",week:"Java",day:"Dita",today:"Sot",noEvent:"Nuk ka event",allDay:"Tërë ditën",deleteEvent:"Fshijë",createEvent:"Krijo një event",dateFormat:"dddd D MMMM YYYY"}}}]);
-//# sourceMappingURL=chunk-2d0e19ee.js.map

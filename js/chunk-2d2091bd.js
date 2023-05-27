@@ -1,8 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2091bd"],{a83c:function(n,e,a){"use strict";a.r(e),a.d(e,"allDay",(function(){return s})),a.d(e,"createEvent",(function(){return k})),a.d(e,"dateFormat",(function(){return y})),a.d(e,"day",(function(){return j})),a.d(e,"default",(function(){return v})),a.d(e,"deleteEvent",(function(){return l})),a.d(e,"month",(function(){return i})),a.d(e,"months",(function(){return d})),a.d(e,"noEvent",(function(){return f})),a.d(e,"today",(function(){return c})),a.d(e,"week",(function(){return u})),a.d(e,"weekDays",(function(){return t})),a.d(e,"year",(function(){return o})),a.d(e,"years",(function(){return r}));
-/**
-  * vue-cal v3.11.0
-  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
-  * @license MIT
-  */
-const t=["Ponedjeljak","Utorak","Srijeda","Četvrtak","Petak","Subota","Nedjelja"],d=["Siječanj","Veljača","Ožujak","Travanj","Svibanj","Lipanj","Srpanj","Kolovoz","Rujan","Listopad","Studeni","Prosinac"],r="Godine",o="Godina",i="Mjesec",u="Tjedan",j="Dan",c="Današnji dan",f="Nema događaja",s="Cijeli dan",l="Obriši",k="Kreiraj događaj",y="dddd D MMMM YYYY",v={weekDays:t,months:d,years:"Godine",year:"Godina",month:"Mjesec",week:"Tjedan",day:"Dan",today:"Današnji dan",noEvent:"Nema događaja",allDay:"Cijeli dan",deleteEvent:"Obriši",createEvent:"Kreiraj događaj",dateFormat:"dddd D MMMM YYYY"}}}]);
-//# sourceMappingURL=chunk-2d2091bd.js.map
